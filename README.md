@@ -1,1 +1,1 @@
-# gitclass1
+# git sample
